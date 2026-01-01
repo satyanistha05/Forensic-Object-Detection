@@ -212,6 +212,7 @@ pip install -r requirements.txt
 ## 👤 Author 
 
 **Dr. Ashis Kumar Pati**
+
 Dept. of Data Science - ITER - SOA University
 
 **Satyanistha Das**  
