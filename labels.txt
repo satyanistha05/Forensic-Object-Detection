@@ -1,0 +1,7 @@
+Blood
+Finger-print
+Hammer
+Handgun
+Human-body
+Knife
+Shotgun
